@@ -1,6 +1,5 @@
 # Stock-market-prediction-by-combining-CNNs-trained-on-multiple-time-frames
 
-# Market Analysis in Forex Stock Market using Multi-CNN Model
 
 This repository contains the implementation and research findings of a novel approach for market analysis in the Forex stock market. The study explores various econometric models, moving averages, technical indicators, and machine learning techniques commonly used for predicting stock market trends. The primary focus of this research is the introduction of a new model known as the **Multi-CNN (Convolutional Neural Network)** model, which incorporates domain knowledge specific to Forex trading.
 
